@@ -18,9 +18,9 @@
 
   ## Usage
  [Walkthrough Video](https://github.com/MVincent15/Employee_Database/assets/123343948/f068d1d0-d1e9-4e50-b421-11e04f30b7f1)
-
-
-
+<img width="1221" alt="Screenshot 2023-05-15 at 6 15 03 PM" src="https://github.com/MVincent15/Employee_Database/assets/123343948/ee790554-bbf9-4a7a-9bf3-a8a89ad205ee">
+<img width="1221" alt="Screenshot 2023-05-15 at 6 15 16 PM" src="https://github.com/MVincent15/Employee_Database/assets/123343948/4d0283af-fb87-49d5-b465-c63160e79fa6">
+<img width="1236" alt="Screenshot 2023-05-15 at 6 15 25 PM" src="https://github.com/MVincent15/Employee_Database/assets/123343948/014edfa4-eec0-461f-913c-6aaa9886fd2e">
 
 
   ## Credits 
