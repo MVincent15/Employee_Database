@@ -17,7 +17,9 @@
   Git clone the repo, then do npm i to install the necessary dependencies. Run the schema file to drop/add the database. From there you can run npm start to begin constructing the databse.
 
   ## Usage
- INCLUDE WALKTHOUGH VIDEO AND SCREENSHOTS HERE 
+ [Walkthrough Video](https://github.com/MVincent15/Employee_Database/assets/123343948/f068d1d0-d1e9-4e50-b421-11e04f30b7f1)
+
+
 
 
 
